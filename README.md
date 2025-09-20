@@ -1,3 +1,3 @@
 # Mi Proyecto
-## DEscripción
+## Descripción :v
 Este es mi primer proyecto con GIT
